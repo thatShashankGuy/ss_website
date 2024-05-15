@@ -9,15 +9,12 @@
     align-items: left;
     justify-content: left;
     text-align: left;
-    padding: 20px;
+    padding-top: 10px;
     max-width: 800px;
-    margin: 0 auto;
   }
 
   /* Blog post card */
   .blog-card {
-    padding: 20px;
-    margin-bottom: 20px;
     text-align: left;
   }
 
@@ -46,10 +43,6 @@
 
   @media (max-width: 768px) {
     .container {
-      padding: 10px;
-    }
-
-    .blog-card {
       padding: 10px;
     }
 

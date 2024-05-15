@@ -43,7 +43,7 @@
         justify-content: center;
         height: 100vh; /* Full height to center everything vertically */
         text-align: center;
-        padding: 20px; /* Added padding for better spacing around the edges */
+        padding: 10px; /* Added padding for better spacing around the edges */
         box-sizing: border-box; /* Ensures padding is included in height calculation */
     }
 
@@ -56,7 +56,7 @@
     }
 
     .profile-info {
-        margin-top: 20px; /* More space above the button for clearer separation */
+        margin-top: 10px; /* More space above the button for clearer separation */
     }
 
     button {
